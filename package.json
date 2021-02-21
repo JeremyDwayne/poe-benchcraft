@@ -1,0 +1,21 @@
+{
+	"name": "poe-benchcraft",
+	"version": "0.1.0",
+	"description": "A tool for managing path of exile benchcraft chat messages.",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"repository": "https://github.com/JeremyDwayne/poe-benchcraft",
+	"keywords": [
+		"Path of Exile",
+		"poe",
+		"benchcraft",
+		"tool"
+	],
+	"author": "Jeremy Winterberg",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^11.3.0"
+	}
+}
